@@ -1,4 +1,4 @@
-
+group,Canais | ABERTO
 Globosp.br,Globo RJ HD,https://8mwx.short.gy/GLOBORJ/index.m3u8
 ext,Record RJ HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/244091
 ext,TV Tropical,https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
